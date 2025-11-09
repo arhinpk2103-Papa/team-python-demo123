@@ -67,3 +67,7 @@ For questions or contributions:
 
 🚀 Update for Jira integration test (SCRUM-1)
 
+### 🚀 Jira Integration Test (SCRUM-1)
+This update was made on a feature branch to demonstrate the GitHub–Jira workflow integration for Assignment 4.
+
+
