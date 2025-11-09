@@ -64,3 +64,6 @@ For questions or contributions:
 ---
 
 ⭐ *If you found this project interesting, don’t forget to star the repo!*
+
+🚀 Update for Jira integration test (SCRUM-1)
+
